@@ -102,7 +102,6 @@ def help():
 """)
 
 def menu():
-os.system("clear")
 print("""
 \033[36m
 \033[36m                 ╔═╗  ╦  ╦    ╦    ╦ ╦  ╔═╗  ╔═╗  ╔╦╗
